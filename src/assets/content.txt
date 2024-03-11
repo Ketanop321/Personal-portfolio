@@ -1,0 +1,11 @@
+-----Header section -------
+Projects
+Technologies
+About me
+
+
+------banner section ------
+#heading
+Hellow, I'm developer
+## sub heading
+just a student trying to learn new things
